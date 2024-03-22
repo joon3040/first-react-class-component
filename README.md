@@ -1,3 +1,8 @@
+리액트의 클래스 컴포넌트를 활용한 가위-바위-보 게임
+도메인 주소: https://first-react-class-component.netlify.app/
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
